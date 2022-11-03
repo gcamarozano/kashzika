@@ -1,9 +1,20 @@
-- 👋 Hi, I’m Gabriel Camarozano, also known as kashz or kashzika :)
-- 👀 I love Counter-Strike and been playing the game for the past 6 years where I have more than 8k hours competing in leagues.
-- 🌱 I’m currently a Cybersecurity major learning Java before learning Python
-- 📫 You can reach me at my social medias or kaashhfx08@gmail.com :0
+<div>
+    <a target='_blank' href="https://twitch.tv/kashzz">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
+    <a target='_blank' href="https://twitter.com/kashzfps">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a target='_blank' href="https://instagram.com/gabrieel64">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+</div>
 
-<!---
-kashzika/kashzika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Info
+
+* **Name**: Gabriel Camarozano
+* **Age**: 20
+* **Living in**: Weston, Florida
+* **Learning**: Java,Python
+* **Studying**: Cybersecurity Major
+* **Interests**: Love Counter-Strike and been playing for more than 6 years where I have more than 8k hours competing in leagues.
